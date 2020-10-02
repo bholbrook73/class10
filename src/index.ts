@@ -7,7 +7,7 @@ import { multiply } from "./calculator/multiply";
 yargs.command(
     
     // name the command with no spaces
-    "multiply",
+    "calculate",
 
     // describe the command so that the --help flag is helpful
     "Multiplies Two Numbers",
